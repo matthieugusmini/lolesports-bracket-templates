@@ -1,0 +1,178 @@
+{
+  "rounds": [
+    {
+      "title": "ROUND 1",
+      "matches": [
+        {
+          "displayType": "match"
+        },
+        {
+          "displayType": "match"
+        },
+        {
+          "displayType": "match"
+        },
+        {
+          "displayType": "match"
+        }
+      ]
+    },
+    {
+      "title": "ROUND 2",
+      "links": [
+        {
+          "type": "z-down",
+          "height": 1,
+          "above": 4
+        },
+        {
+          "type": "z-up",
+          "height": 1,
+          "above": 1
+        },
+        {
+          "type": "z-down",
+          "height": 1,
+          "above": 6
+        },
+        {
+          "type": "z-up",
+          "height": 1,
+          "above": 1
+        }
+      ],
+      "matches": [
+        {
+          "displayType": "match",
+          "above": 3
+        },
+        {
+          "displayType": "match",
+          "above": 6
+        },
+        {
+          "displayType": "match",
+          "above": 2
+        },
+        {
+          "displayType": "match"
+        }
+      ]
+    },
+    {
+      "title": "ROUND 3",
+      "links": [
+        {
+          "type": "z-down",
+          "height": 4,
+          "above": 7
+        },
+        {
+          "type": "z-up",
+          "height": 4,
+          "above": 1
+        },
+        {
+          "type": "horizontal",
+          "height": 1,
+          "above": 8
+        },
+        {
+          "type": "horizontal",
+          "height": 1,
+          "above": 6
+        }
+      ],
+      "matches": [
+        {
+          "displayType": "match",
+          "above": 9
+        },
+        {
+          "displayType": "match",
+          "above": 8
+        },
+        {
+          "displayType": "match",
+          "above": 0
+        }
+      ]
+    },
+    {
+      "title": "ROUND 4",
+      "links": [
+        {
+          "type": "horizontal",
+          "height": 1,
+          "above": 13
+        },
+        {
+          "type": "z-down",
+          "height": 1,
+          "above": 14
+        },
+        {
+          "type": "z-up",
+          "height": 1,
+          "above": 1
+        }
+      ],
+      "matches": [
+        {
+          "displayType": "horizontal-line",
+          "above": 11
+        },
+        {
+          "displayType": "match",
+          "above": 13
+        }
+      ]
+    },
+    {
+      "title": "ROUND 5",
+      "links": [
+        {
+          "type": "horizontal",
+          "height": 1,
+          "above": 13
+        },
+        {
+          "type": "horizontal",
+          "height": 1,
+          "above": 17
+        }
+      ],
+      "matches": [
+        {
+          "displayType": "horizontal-line",
+          "above": 11
+        },
+        {
+          "displayType": "match",
+          "above": 13
+        }
+      ]
+    },
+    {
+      "title": "GRAND FINAL",
+      "links": [
+        {
+          "type": "horizontal",
+          "height": 1,
+          "above": 13
+        },
+        {
+          "type": "z-up",
+          "height": 14,
+          "above": 2
+        }
+      ],
+      "matches": [
+        {
+          "displayType": "match",
+          "above": 10
+        }
+      ]
+    }
+  ]
+}
