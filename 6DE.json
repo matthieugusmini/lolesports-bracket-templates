@@ -1,0 +1,116 @@
+{
+  "rounds": [
+    {
+      "title": "Round 1",
+      "matches": [
+        {
+          "displayType": "match"
+        },
+        {
+          "displayType": "match"
+        }
+      ]
+    },
+    {
+      "title": "Round 2",
+      "links": [
+        {
+          "type": "z-down",
+          "height": 1,
+          "above": 4
+        },
+        {
+          "type": "z-up",
+          "height": 1,
+          "above": 1
+        }
+      ],
+      "matches": [
+        {
+          "displayType": "match",
+          "above": 3
+        },
+        {
+          "displayType": "match",
+          "above": 2
+        },
+        {
+          "displayType": "match"
+        }
+      ]
+    },
+    {
+      "title": "Round 3",
+      "links": [
+        {
+          "type": "horizontal",
+          "above": 7
+        },
+        {
+          "type": "z-down",
+          "height": 1,
+          "above": 8
+        },
+        {
+          "type": "z-up",
+          "height": 1,
+          "above": 1
+        }
+      ],
+      "matches": [
+        {
+          "displayType": "horizontal-line",
+          "above": 5
+        },
+        {
+          "displayType": "match",
+          "above": 7
+        }
+      ]
+    },
+    {
+      "title": "Round 4",
+      "links": [
+        {
+          "type": "horizontal",
+          "above": 7
+        },
+        {
+          "type": "horizontal",
+          "above": 11
+        }
+      ],
+      "matches": [
+        {
+          "displayType": "horizontal-line",
+          "above": 5
+        },
+        {
+          "displayType": "match",
+          "above": 7
+        }
+      ]
+    },
+    {
+      "title": "FINALS",
+      "links": [
+        {
+          "type": "horizontal",
+          "above": 7
+        },
+        {
+          "type": "z-up",
+          "height": 8,
+          "above": 2
+        }
+      ],
+      "matches": [
+        {
+          "displayType": "match",
+          "above": 4
+        }
+      ]
+    }
+  ]
+}
+

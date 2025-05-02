@@ -1,0 +1,36 @@
+{
+  "rounds": [
+    {
+      "title": "SEMIFINALS",
+      "matches": [
+        {
+          "displayType": "match"
+        },
+        {
+          "displayType": "match"
+        }
+      ]
+    },
+    {
+      "title": "FINALS",
+      "links": [
+        {
+          "type": "z-down",
+          "height": 1,
+          "above": 4
+        },
+        {
+          "type": "z-up",
+          "height": 1,
+          "above": 1
+        }
+      ],
+      "matches": [
+        {
+          "displayType": "match",
+          "above": 3
+        }
+      ]
+    }
+  ]
+}

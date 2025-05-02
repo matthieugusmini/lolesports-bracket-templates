@@ -1,0 +1,56 @@
+{
+  "rounds": [
+    {
+      "title": "ROUND 1",
+      "matches": [
+        {
+          "displayType": "match"
+        },
+        {
+          "displayType": "match"
+        }
+      ]
+    },
+    {
+      "title": "ROUND 2",
+      "links": [
+        {
+          "type": "z-down",
+          "height": 1,
+          "above": 4
+        },
+        {
+          "type": "z-up",
+          "height": 1,
+          "above": 1
+        }
+      ],
+      "matches": [
+        {
+          "displayType": "match",
+          "above": 3
+        },
+        {
+          "displayType": "match",
+          "above": 2
+        }
+      ]
+    },
+    {
+      "title": "ROUND 3",
+      "links": [
+        {
+          "type": "horizontal",
+          "height": 1,
+          "above": 15
+        }
+      ],
+      "matches": [
+        {
+          "displayType": "match",
+          "above": 11
+        }
+      ]
+    }
+  ]
+}

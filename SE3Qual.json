@@ -1,0 +1,46 @@
+{
+  "rounds": [
+    {
+      "title": "ROUND 1",
+      "matches": [
+        {
+          "displayType": "match"
+        },
+        {
+          "displayType": "match"
+        }
+      ]
+    },
+    {
+      "title": "ROUND 2",
+      "links": [
+        {
+          "type": "horizontal",
+          "above": 4
+        },
+        {
+          "type": "horizontal",
+          "above": 6
+        }
+      ],
+      "matches": [
+        {
+          "displayType": "match"
+        },
+        {
+          "displayType": "match"
+        }
+      ]
+    },
+    {
+      "title": "ROUND 3",
+      "links": [],
+      "matches": [
+        {
+          "displayType": "match",
+          "above": 12
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "rounds": [
+    {
+      "title": "ROUND 1",
+      "matches": [
+        {
+          "displayType": "match"
+        },
+        {
+          "displayType": "match"
+        },
+        {
+          "displayType": "match"
+        },
+        {
+          "displayType": "match"
+        },
+        {
+          "displayType": "match",
+          "label": "Losers' Bracket"
+        },
+        {
+          "displayType": "match"
+        }
+      ]
+    },
+    {
+      "title": "ROUND 2",
+      "links": [
+        {
+          "type": "z-down",
+          "height": 2,
+          "above": 6
+        },
+        {
+          "type": "z-up",
+          "height": 2,
+          "above": 2
+        },
+        {
+          "type": "z-down",
+          "height": 2,
+          "above": 6
+        },
+        {
+          "type": "z-up",
+          "height": 2,
+          "above": 2
+        },
+        {
+          "type": "l-down",
+          "height": 1,
+          "above": 3
+        },
+        {
+          "type": "horizontal",
+          "height": 1,
+          "above": 1
+        },
+        {
+          "type": "l-down",
+          "height": 1,
+          "above": 3
+        },
+        {
+          "type": "horizontal",
+          "height": 1,
+          "above": 1
+        }
+      ],
+      "matches": [
+        {
+          "displayType": "match",
+          "above": 3
+        },
+        {
+          "displayType": "match",
+          "above": 6
+        },
+        {
+          "displayType": "match",
+          "above": 2
+        },
+        {
+          "displayType": "match"
+        }
+      ]
+    }
+  ]
+}

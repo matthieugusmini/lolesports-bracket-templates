@@ -1,0 +1,78 @@
+{
+  "rounds": [
+    {
+      "title": "QUARTERFINALS",
+      "matches": [
+        {
+          "displayType": "match"
+        },
+        {
+          "displayType": "match"
+        },
+        {
+          "displayType": "match"
+        },
+        {
+          "displayType": "match"
+        }
+      ]
+    },
+    {
+      "title": "SEMIFINALS",
+      "links": [
+        {
+          "type": "z-down",
+          "height": 1,
+          "above": 4
+        },
+        {
+          "type": "z-up",
+          "height": 1,
+          "above": 1
+        },
+        {
+          "type": "z-down",
+          "height": 1,
+          "above": 6
+        },
+        {
+          "type": "z-up",
+          "height": 1,
+          "above": 1
+        }
+      ],
+      "matches": [
+        {
+          "displayType": "match",
+          "above": 3
+        },
+        {
+          "displayType": "match",
+          "above": 6
+        }
+      ]
+    },
+    {
+      "title": "FINALS",
+      "links": [
+        {
+          "type": "z-down",
+          "height": 4,
+          "above": 7
+        },
+        {
+          "type": "z-up",
+          "height": 4,
+          "above": 1
+        }
+      ],
+      "matches": [
+        {
+          "displayType": "match",
+          "above": 9
+        }
+      ]
+    }
+  ]
+}
+

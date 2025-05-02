@@ -1,0 +1,122 @@
+{
+  "rounds": [
+    {
+      "title": "Round 1",
+      "matches": [
+        {
+          "displayType": "match"
+        },
+        {
+          "displayType": "match"
+        },
+        {
+          "displayType": "match"
+        },
+        {
+          "displayType": "match"
+        }
+      ]
+    },
+    {
+      "title": "Round 2",
+      "links": [
+        {
+          "type": "z-down",
+          "height": 1,
+          "above": 4
+        },
+        {
+          "type": "z-up",
+          "height": 1,
+          "above": 1
+        },
+        {
+          "type": "z-down",
+          "height": 1,
+          "above": 6
+        },
+        {
+          "type": "z-up",
+          "height": 1,
+          "above": 1
+        }
+      ],
+      "matches": [
+        {
+          "displayType": "match",
+          "above": 3
+        },
+        {
+          "displayType": "match",
+          "above": 6
+        },
+        {
+          "displayType": "match",
+          "above": 2
+        },
+        {
+          "displayType": "match"
+        }
+      ]
+    },
+    {
+      "title": "Round 3",
+      "links": [
+        {
+          "type": "z-down",
+          "height": 4,
+          "above": 7
+        },
+        {
+          "type": "z-up",
+          "height": 4,
+          "above": 1
+        },
+        {
+          "type": "horizontal",
+          "height": 1,
+          "above": 8
+        },
+        {
+          "type": "horizontal",
+          "height": 1,
+          "above": 6
+        }
+      ],
+      "matches": [
+        {
+          "displayType": "match",
+          "above": 9
+        },
+        {
+          "displayType": "match",
+          "above": 8
+        },
+        {
+          "displayType": "match"
+        }
+      ]
+    },
+    {
+      "title": "LOWER BRACKET - ROUND 3",
+      "links": [
+        {
+          "type": "z-down",
+          "height": 1,
+          "above": 27
+        },
+        {
+          "type": "z-up",
+          "height": 1,
+          "above": 1
+        }
+      ],
+      "matches": [
+        {
+          "displayType": "match",
+          "above": 26
+        }
+      ]
+    }
+  ]
+}
