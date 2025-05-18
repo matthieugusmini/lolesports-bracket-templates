@@ -34,7 +34,16 @@
     },
     {
       "title": "ROUND 3",
-      "links": [],
+      "links": [
+        {
+          "type": "loser-advance",
+          "above": 1
+        },
+        {
+          "type": "loser-advance",
+          "above": 1
+        }
+      ],
       "matches": [
         {
           "displayType": "match",

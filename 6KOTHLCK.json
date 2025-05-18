@@ -10,7 +10,11 @@
     },
     {
       "title": "ROUND 2",
-      "links": [],
+      "links": [
+        {
+          "type": "loser-advance"
+        }
+      ],
       "matches": [
         {
           "displayType": "match",
